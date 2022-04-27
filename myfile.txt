@@ -1,1 +1,1 @@
-this is my first try with Git
+this is my first try with Github
